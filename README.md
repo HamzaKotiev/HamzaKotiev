@@ -33,7 +33,6 @@
 
 - :zap: Сейчас могу с  уверенностью сказать, что я являюсь **Full stack  Junior  Developer**
 
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
