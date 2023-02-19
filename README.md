@@ -24,12 +24,13 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ Обо мне:
+Я  full stack разработчик  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope:  Мне 20 лет и я являюсь студентом факультета **информационных-систем и технологии**
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: С 19 лет занимаюсь изучением  методов и инструментов разработки веб-приложений 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Сейчас могу с  уверенностью сказать, что я являюсь **Full stack  Junior  Developer**
 
 
 ---
