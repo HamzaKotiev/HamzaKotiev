@@ -36,6 +36,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="70" height="70"/>&nbsp;
@@ -61,6 +62,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
 ---
 
 ### :writing_hand: Blog Posts :
