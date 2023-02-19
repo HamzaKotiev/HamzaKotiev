@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
  Обо мне:
-Я  full stack разработчик  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope:  Мне 20 лет и я являюсь студентом факультета **информационных-систем и технологии**
 
 - :seedling: С 19 лет занимаюсь изучением  методов и инструментов разработки веб-приложений 
