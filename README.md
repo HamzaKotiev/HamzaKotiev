@@ -24,7 +24,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: Обо мне:
  Обо мне:
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope:  Мне 20 лет и я являюсь студентом факультета **информационных-систем и технологии**
