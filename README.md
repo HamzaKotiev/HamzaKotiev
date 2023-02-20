@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=ВКонтакте&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vkontakte Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=HamzaKotiev&style=flat-square&color=blue" alt=""/>
