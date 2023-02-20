@@ -2,13 +2,13 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY4MDBlNDczYTc1MzZjNWMyMzEzODI1NzE5MjVlNzdlOWQxYjk3MSZjdD1z/Ye7UYS5NTl6arPbDw7/giphy.gif" title="Vue.js" width="100"/>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IxZmExZWE3YzhmYmFjODgyMDA0OWI1OWNiYWMwMjFlYmQxNWJjZiZjdD1z/eNAsjO55tPbgaor7ma/giphy.gif" title="React" width="100"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://t.me/Kotiev_Hamza">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://vk.com/kotiev_hamza">
       <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vkontakte Badge"/>
     </a>
   </div>
